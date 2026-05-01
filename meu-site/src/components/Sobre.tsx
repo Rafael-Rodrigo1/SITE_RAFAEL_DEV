@@ -24,6 +24,10 @@ export default function Sobre() {
             <span className="bg-gray-800 px-3 py-1 rounded">TypeScript</span>
             <span className="bg-gray-800 px-3 py-1 rounded">Tailwind</span>
             <span className="bg-gray-800 px-3 py-1 rounded">JavaScript</span>
+            <span className="bg-gray-800 px-3 py-1 rounded">Java</span>
+            <span className="bg-gray-800 px-3 py-1 rounded">MySQL</span>
+            <span className="bg-gray-800 px-3 py-1 rounded">Git</span>
+            <span className="bg-gray-800 px-3 py-1 rounded">AWS</span>
        </div>
       </div>
     </section>
