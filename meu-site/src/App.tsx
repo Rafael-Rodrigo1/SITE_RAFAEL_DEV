@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react"
 import './App.css'
 import Hero from './components/Hero'
 import Sobre from './components/Sobre'
@@ -11,6 +12,7 @@ function App() {
       <Sobre />
       <Projetos />
       <Contato />
+      <Analytics/>
     </div>
   )
 };
